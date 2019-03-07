@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: 10.67.253.106:5000/jstrachan/nodey56
-  tag: 1.0.0
+  tag: 1.0.1
   pullPolicy: IfNotPresent
 service:
   name: nodey56
